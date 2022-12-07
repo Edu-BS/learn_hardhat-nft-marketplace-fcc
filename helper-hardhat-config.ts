@@ -60,3 +60,7 @@ export const developmentChains = ["hardhat", "localhost"]
 export const DECIMALS = "18"
 export const INITIAL_PRICE = "200000000000000000000"
 export const VERIFICATION_BLOCK_CONFIRMATIONS = 6
+export const frontEndContractsFile = ""
+export const frontEndContractsFile2 = "../nextjs-nft-marketplace-thegraph-fcc/constants/networkMapping.json"
+export const frontEndAbiLocation = ""
+export const frontEndAbiLocation2 = "../nextjs-nft-marketplace-thegraph-fcc/constants/"
